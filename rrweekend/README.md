@@ -2,12 +2,6 @@
 
 This is my take on the raytracing in a weekend book.
 
-## Todo:
-
-1. Add new shapes
-2. Add Lightning
-3. Optimize and enhance code abstraction
-
 ## Results
 
 The result can be better show with images:
