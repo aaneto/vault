@@ -1,0 +1,10 @@
+[package]
+name = "raytracing"
+version = "0.1.0"
+authors = ["aaneto <almeidneto@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.1"
+nalgebra = "0.16.11"
+image = "0.20.1"
