@@ -1,0 +1,247 @@
+0:
+UpgradeCarrier (WIDTH/2,0) (0,3)
+make_thin_cannon_ship (4*WIDTH/5,0) (0,2)
+make_small_cannon_ship (WIDTH,0) (0,2)
+1:
+2:
+Airport (0,0) (0,1.5)
+3:
+4:
+MissileLauncher (0,0) (0,1.5)
+5:
+Airport (WIDTH,0) (0,1.5)
+6:
+7:
+MissileLauncher (WIDTH,0) (0,1.5)
+Bomber2 (WIDTH,0) (0,3)
+8:
+Bomber2 (0,0) (0,3)
+9:
+Bunker (WIDTH/2,0) (0,1.5)
+HunterEnemy (WIDTH,2) (0,2)
+HunterEnemy (0,2) (0,2)
+10:
+HunterEnemy (5*WIDTH/6,2) (0,2)
+HunterEnemy (4*WIDTH/6,2) (0,2)
+11:
+HunterEnemy (3*WIDTH/5,2) (0,2)
+HunterEnemy (2*WIDTH/5,2) (0,2)
+12:
+Bunker (0,0) (0,1.5)
+13:
+FollowingRocket (0,1.5) (0,3)
+FollowingRocket (2*WIDTH/5,0) (0,3)
+FollowingRocket (3*WIDTH/5,0) (0,3)
+14:
+FollowingRocket (4*WIDTH/5,0) (0,3)
+FollowingRocket (WIDTH,0) (0,3)
+15:
+16:
+Fabric1 (0,0) (0,1.5)
+17:
+Fabric2 (WIDTH/2,0) (0,1.5)
+18:
+Fabric3 (WIDTH,0) (0,1.5)
+19:
+20:
+21:
+22:
+23:
+Bunker (0,0) (0,1.5)
+Bunker (WIDTH/2,0) (0,1.5)
+Bunker (WIDTH,0) (0,1.5)
+24:
+25:
+26:
+27:
+28:
+UpgradeCarrier (WIDTH/2,0) (0,3)
+29:
+30:
+31:
+MissileLauncher (WIDTH/2,0) (0,1.5)
+MissileLauncher (WIDTH,-2) (0,1.5)
+MissileLauncher (0,-2) (0,1.5)
+32:
+33:
+Fabric2 (0,1.5) (0,1.5)
+Fabric1 (WIDTH/2,0) (0,1.5)
+Fabric3 (WIDTH,0) (0,1.5)
+34:
+35:
+HunterEnemy (0,0) (0,6)
+HunterEnemy (WIDTH/6,0) (0,6)
+HunterEnemy (2*WIDTH/6,0) (0,6)
+HunterEnemy (3*WIDTH/6,0) (0,6)
+36:
+37:
+HunterEnemy (0,0) (0,6)
+HunterEnemy (WIDTH/6,0) (0,6)
+HunterEnemy (2*WIDTH/6,0) (0,6)
+HunterEnemy (3*WIDTH/6,3) (0,6)
+HunterEnemy (4*WIDTH/6,3) (0,6)
+HunterEnemy (5*WIDTH/6,3) (0,6)
+38:
+39:
+Bunker (0,1.5) (0,1.5)
+Bunker (WIDTH,0) (0,1.5)
+Bomber2 (0,2) (0,3)
+Bomber2 (WIDTH,2) (0,3)
+40:
+41:
+FollowingRocket (WIDTH/2,0) (0,5)
+FollowingRocket (WIDTH/2-2,0) (0,5)
+FollowingRocket (WIDTH/2-4,0) (0,5)
+42:
+43:
+FollowingRocket (WIDTH/2+2,0) (0,5)
+FollowingRocket (WIDTH/2+2,0) (0,5)
+44:
+Airport (WIDTH,0) (0,1.5)
+Airport (WIDTH-2,0) (0,1.5)
+45:
+UpgradeCarrier (WIDTH/2,0) (0,3)
+46:
+Bunker (2,0) (0,1.5)
+Bunker (WIDTH,0) (0,1.5)
+Fabric1 (4,0) (0,1.5)
+Fabric2 (WIDTH/2,0) (0,1.5)
+Fabric3 (WIDTH-4,0) (0,1.5)
+47:
+HunterEnemy (0,3) (0,3)
+HunterEnemy (WIDTH/6,3) (0,3)
+HunterEnemy (2*WIDTH/6,3) (0,3)
+HunterEnemy (3*WIDTH/6,3) (0,3)
+HunterEnemy (4*WIDTH/6,3) (0,3)
+48:
+HunterEnemy (5*WIDTH/6,3) (0,3)
+HunterEnemy (WIDTH,3) (0,3)
+LifeCarrier (WIDTH/2,0) (0,3)
+HunterEnemy (0,1.5) (0,6)
+HunterEnemy (1,0) (0,6)
+HunterEnemy (2,0) (0,6)
+49:
+HunterEnemy (0,0) (0,6)
+HunterEnemy (2*WIDTH/11,0) (0,6)
+HunterEnemy (3*WIDTH/11,0) (0,6)
+HunterEnemy (4*WIDTH/11,0) (0,6)
+HunterEnemy (5*WIDTH/11,3) (0,6)
+HunterEnemy (6*WIDTH/11,3) (0,6)
+HunterEnemy (7*WIDTH/11,3) (0,6)
+HunterEnemy (8*WIDTH/11,0) (0,6)
+HunterEnemy (9*WIDTH/11,0) (0,6)
+HunterEnemy (10*WIDTH/11,0) (0,6)
+HunterEnemy (WIDTH,0) (0,6)
+50:
+FollowingRocket (WIDTH/2,0) (0,1)
+FollowingRocket (WIDTH/2-2,0) (0,2)
+FollowingRocket (WIDTH/2-4,0) (0,3)
+FollowingRocket (WIDTH/2+2,0) (0,4)
+FollowingRocket (WIDTH/2+2,0) (0,5)
+FollowingRocket (WIDTH/2,0) (0,6)
+51:
+FollowingRocket (WIDTH/2-2,0) (0,9)
+FollowingRocket (WIDTH/2-4,0) (0,10)
+FollowingRocket (WIDTH/2+2,0) (0,11)
+FollowingRocket (WIDTH/2+2,0) (0,12)
+52:
+Bomber2 (2,2) (0,3)
+Bomber2 (WIDTH-2,2) (0,3)
+53:
+MissileLauncher (0,1.5) (0,1.5)
+MissileLauncher (2,0) (0,1.5)
+MissileLauncher (WIDTH,0) (0,1.5)
+MissileLauncher (WIDTH-2,0) (0,1.5)
+54:
+HunterEnemy (0,0) (0,6)
+HunterEnemy (2*WIDTH/15,0) (0,6)
+HunterEnemy (3*WIDTH/15,0) (0,6)
+HunterEnemy (4*WIDTH/15,0) (0,6)
+HunterEnemy (5*WIDTH/15,0) (0,6)
+HunterEnemy (6*WIDTH/15,0) (0,6)
+HunterEnemy (7*WIDTH/15,0) (0,6)
+HunterEnemy (8*WIDTH/15,0) (0,6)
+HunterEnemy (10*WIDTH/15,0) (0,6)
+HunterEnemy (11*WIDTH/15,0) (0,6)
+HunterEnemy (12*WIDTH/15,0) (0,6)
+HunterEnemy (13*WIDTH/15,0) (0,6)
+HunterEnemy (14*WIDTH/15,0) (0,6)
+HunterEnemy (WIDTH,HEIGHT) (0,6)
+55:
+FollowingRocket (0,0) (0,5)
+FollowingRocket (2*WIDTH/5,0) (0,5)
+FollowingRocket (3*WIDTH/5,0) (0,5)
+FollowingRocket (4*WIDTH/5,0) (0,5)
+FollowingRocket (WIDTH,0) (0,5)
+56:
+57:
+58:
+Bomber2 (0,0) (3,5)
+Bomber2 (2*WIDTH/5,0) (3,5)
+Bomber2 (3*WIDTH/5,0) (3,5)
+Bomber2 (4*WIDTH/5,0) (3,5)
+Bomber2 (WIDTH,0) (3,5)
+59:
+60:
+Fabric1 (4,0) (0,1.5)
+Fabric2 (WIDTH/2,0) (0,1.5)
+Fabric3 (WIDTH-4,0) (0,1.5)
+61:
+62:
+Airport (0,1.5) (0,1.5)
+Airport (2,0) (0,1.5)
+Airport (WIDTH,0) (0,1.5)
+Airport (WIDTH-2,0) (0,1.5)
+63:
+MissileLauncher (6,0) (0,1.5)
+MissileLauncher (7,0) (0,1.5)
+MissileLauncher (WIDTH-6,0) (0,1.5)
+MissileLauncher (WIDTH-7,0) (0,1.5)
+64:
+65:
+UpgradeCarrier (0,1.5) (0,3)
+UpgradeCarrier (WIDTH,0) (0,3)
+BombCarrier (WIDTH/2,0) (0,5)
+66:
+67:
+FollowingRocket (0,0) (0,5)
+FollowingRocket (2*WIDTH/5,0) (0,5)
+FollowingRocket (3*WIDTH/5,0) (0,5)
+FollowingRocket (4*WIDTH/5,0) (0,5)
+FollowingRocket (WIDTH,0) (0,5)
+68:
+69:
+FollowingRocket (0,0) (0,5)
+FollowingRocket (2*WIDTH/5,0) (0,5)
+FollowingRocket (3*WIDTH/5,0) (0,5)
+FollowingRocket (4*WIDTH/5,0) (0,5)
+FollowingRocket (WIDTH,0) (0,5)
+70:
+FollowingRocket (0,0) (0,5)
+FollowingRocket (2*WIDTH/5,0) (0,5)
+FollowingRocket (3*WIDTH/5,0) (0,5)
+FollowingRocket (4*WIDTH/5,0) (0,5)
+FollowingRocket (WIDTH,0) (0,5)
+71:
+72:
+HunterEnemy (0,0) (6,0)
+HunterEnemy (2*WIDTH/7,0) (6,0)
+HunterEnemy (3*WIDTH/7,0) (6,0)
+HunterEnemy (4*WIDTH/7,0) (6,0)
+HunterEnemy (5*WIDTH/7,0) (6,0)
+HunterEnemy (6*WIDTH/7,0) (6,0)
+HunterEnemy (WIDTH,0) (6,0)
+73:
+74:
+HunterEnemy (0,0) (-6,0)
+HunterEnemy (2*WIDTH/7,0) (-6,0)
+HunterEnemy (3*WIDTH/7,0) (-6,0)
+HunterEnemy (4*WIDTH/7,0) (-6,0)
+HunterEnemy (5*WIDTH/7,0) (-6,0)
+HunterEnemy (6*WIDTH/7,0) (-6,0)
+HunterEnemy (WIDTH,0) (-6,0)
+75:
+76:
+77:
+Georgia (WIDTH/2,0) (0,1)
+78:

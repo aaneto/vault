@@ -1,0 +1,236 @@
+0:
+1:
+Valefor (0,0) (0,6)
+Eligor (2*WIDTH/11,0) (0,6)
+Forneus (3*WIDTH/11,0) (0,6)
+Decarabia (4*WIDTH/11,0) (0,6)
+Botis (5*WIDTH/11,3) (0,6)
+Malphas (6*WIDTH/11,0) (0,6)
+Botis (7*WIDTH/11,0) (0,6)
+Decarabia (8*WIDTH/11,0) (0,6)
+Forneus (9*WIDTH/11,0) (0,6)
+Eligor (10*WIDTH/11,0) (0,6)
+Valefor (WIDTH,0) (0,6)
+2:
+3:
+Baalberith (0,0) (0,3)
+Baalberith (WIDTH,0) (0,3)
+4:
+5:
+UpgradeCarrier (WIDTH/2,0) (0,3)
+Barbatos (WIDTH,0) (0,2)
+Malphas (0,0) (0,2)
+6:
+7:
+Botis (WIDTH,0) (0,3)
+Astaroth (2*WIDTH/4,0) (0,3)
+Decarabia (0,0) (0,3)
+Baalberith (3*WIDTH/4,0) (0,3)
+8:
+9:
+Malphas (0,0) (0,6)
+Malphas (2*WIDTH/8,0) (0,6)
+Barbatos (3*WIDTH/8,0) (0,6)
+10:
+11:
+Malphas (4*WIDTH/8,0) (0,6)
+Botis (5*WIDTH/8,0) (0,6)
+Decarabia (6*WIDTH/8,0) (0,6)
+12:
+Baalberith (7*WIDTH/8,0) (0,6)
+Malphas (WIDTH,0) (0,6)
+13:
+14:
+Eligor (0,0) (0,6)
+Forneus (2*WIDTH/12,0) (0,6)
+15:
+Valefor (3*WIDTH/12,0) (0,6)
+16:
+17:
+Malphas (4*WIDTH/12,0) (0,3)
+Barbatos (5*WIDTH/12,0) (0,6)
+Barbatos (6*WIDTH/12,0) (0,3)
+Botis (7*WIDTH/12,0) (0,3)
+Forneus (8*WIDTH/12,0) (0,6)
+Astaroth (9*WIDTH/12,0) (0,6)
+18:
+19:
+Botis (10*WIDTH/12,0) (0,6)
+Baalberith (11*WIDTH/12,0) (0,6)
+Valefor (WIDTH,0) (0,6)
+Barbatos (0,0) (0,6)
+20:
+Botis (WIDTH/2,0) (0,6)
+Eligor (WIDTH,0) (0,6)
+Decarabia (0,0) (0,6)
+21:
+Malphas (WIDTH/2,0) (0,6)
+22:
+23:
+Baalberith (0,0) (0,6)
+Baalberith (2*WIDTH/11,0) (0,6)
+Baalberith (3*WIDTH/11,0) (0,6)
+Baalberith (4*WIDTH/11,0) (0,6)
+Baalberith (5*WIDTH/11,3) (0,6)
+Baalberith (6*WIDTH/11,0) (0,6)
+Baalberith (7*WIDTH/11,0) (0,6)
+Baalberith (8*WIDTH/11,0) (0,6)
+Baalberith (9*WIDTH/11,0) (0,6)
+Baalberith (10*WIDTH/11,0) (0,6)
+Baalberith (WIDTH,0) (0,6)
+24:
+25:
+UpgradeCarrier (0,0) (0,3)
+UpgradeCarrier (WIDTH,0) (0,3)
+BombCarrier (WIDTH/2,0) (0,5)
+26:
+27:
+Astaroth (0,0) (0,3)
+Astaroth (WIDTH,0) (0,3)
+Malphas (WIDTH/2,0) (0,5)
+28:
+29:
+Barbatos (WIDTH/2,0) (0,6)
+Barbatos (WIDTH/2,0) (0,3)
+Malphas (WIDTH,0) (0,3)
+Malphas (0,0) (0,6)
+30:
+31:
+Botis (WIDTH,0) (0,3)
+Astaroth (WIDTH/2,0) (0,3)
+Malphas (0,0) (0,3)
+32:
+Barbatos (WIDTH,0) (0,2)
+Barbatos (0,0) (0,2)
+33:
+34:
+Botis (WIDTH/2,0) (0,3)
+Malphas (0,0) (0,3)
+Forneus (WIDTH,0) (0,3)
+35:
+36:
+Decarabia (WIDTH/2,0) (0,3)
+Eligor (0,0) (0,3)
+Barbatos (WIDTH,0) (0,3)
+37:
+Baalberith (WIDTH,0) (0,2)
+Baalberith (0,0) (0,2)
+38:
+39:
+40:
+UpgradeCarrier (WIDTH/2,0) (0,3)
+Malphas (0,0) (0,2)
+Malphas (WIDTH,0) (0,2)
+41:
+42:
+Barbatos (0,0) (0,6)
+Barbatos (2*WIDTH/11,0) (0,6)
+Valefor (3*WIDTH/11,0) (0,6)
+Valefor (4*WIDTH/11,0) (0,6)
+Botis (5*WIDTH/11,3) (0,6)
+Botis (6*WIDTH/11,0) (0,6)
+Decarabia (7*WIDTH/11,0) (0,6)
+Decarabia (8*WIDTH/11,0) (0,6)
+Malphas (9*WIDTH/11,0) (0,6)
+Malphas (10*WIDTH/11,0) (0,6)
+Forneus (WIDTH,0) (0,6)
+43:
+44:
+45:
+Malphas (WIDTH/2,0) (0,3)
+Malphas (0,0) (0,3)
+Malphas (WIDTH,0) (0,3)
+46:
+Astaroth (WIDTH/2,0) (0,3)
+47:
+Botis (WIDTH/2,0) (0,3)
+Decarabia (0,0) (0,3)
+Botis (WIDTH,0) (0,3)
+48:
+Astaroth (WIDTH/2,0) (0,3)
+49:
+Malphas (WIDTH/2,0) (0,3)
+Malphas (0,0) (0,3)
+Malphas (WIDTH,0) (0,3)
+50:
+51:
+Forneus (WIDTH/2,0) (0,3)
+Valefor (0,0) (0,3)
+Eligor (WIDTH,0) (0,3)
+52:
+Baalberith (WIDTH/2,0) (0,3)
+53:
+Forneus (WIDTH/2,0) (0,3)
+Valefor (0,0) (0,3)
+Eligor (WIDTH,0) (0,3)
+54:
+55:
+Astaroth (0,0) (0,6)
+Baalberith (2*WIDTH/6,0) (0,6)
+Eligor (3*WIDTH/6,0) (0,6)
+Malphas (4*WIDTH/6,0) (0,6)
+Baalberith (5*WIDTH/6,0) (0,6)
+Astaroth (WIDTH,0) (0,6)
+56:
+57:
+Valefor (0,0) (0,6)
+Malphas (0,-0) (0,3)
+Forneus (WIDTH,0) (0,3)
+Eligor (WIDTH/2,0) (0,6)
+58:
+Baalberith (WIDTH/2,0) (0,3)
+59:
+60:
+Decarabia (WIDTH/2,0) (0,6)
+Botis (0,0) (0,3)
+Barbatos (WIDTH,0) (0,3)
+61:
+Astaroth (WIDTH/2,0) (0,3)
+62:
+63:
+Astaroth (WIDTH,0) (0,3)
+Astaroth (WIDTH/2,0) (0,3)
+Astaroth (0,0) (0,3)
+64:
+65:
+Baalberith (WIDTH,0) (0,3)
+Botis (WIDTH/2,0) (0,3)
+Baalberith (0,0) (0,3)
+66:
+67:
+UpgradeCarrier (0,0) (0,3)
+UpgradeCarrier (WIDTH,0) (0,3)
+BombCarrier (WIDTH/2,0) (0,5)
+68:
+69:
+70:
+Astaroth (WIDTH,0) (0,3)
+Astaroth (WIDTH/2,0) (0,3)
+Astaroth (0,0) (0,3)
+71:
+72:
+Astaroth (0,0) (0,6)
+Baalberith (2*WIDTH/6,0) (0,6)
+Eligor (3*WIDTH/6,0) (0,6)
+Malphas (4*WIDTH/6,0) (0,6)
+Baalberith (5*WIDTH/6,0) (0,6)
+Astaroth (WIDTH,0) (0,6)
+73:
+74:
+Malphas (WIDTH,0) (0,3)
+Malphas (WIDTH/2,0) (0,3)
+Malphas (0,0) (0,3)
+75:
+76:
+Malphas (WIDTH,0) (0,3)
+Malphas (WIDTH/2,0) (0,3)
+Malphas (0,0) (0,3)
+77:
+78:
+Malphas (WIDTH,0) (0,3)
+Malphas (WIDTH/2,0) (0,3)
+Malphas (0,0) (0,3)
+79:
+80:
+Morgenstern (WIDTH/2,0) (0,1)
+81:
