@@ -1,5 +1,5 @@
 import pygame
-import Base
+from include import Base
 import math
 
 BULLET_WIDTH    = Base.WIDTH // 40

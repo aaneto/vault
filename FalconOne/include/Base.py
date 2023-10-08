@@ -1,6 +1,3 @@
-import pygame
-import math
-
 SINGLE_FIRE     = 0
 DUAL_FIRE       = 1
 TRIPLE_FIRE     = 2

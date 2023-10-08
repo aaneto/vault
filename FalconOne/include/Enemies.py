@@ -1,12 +1,13 @@
 import pygame
-import Base
 import math
 import random
-from Bullets import Bullet, BULLET_WIDTH, BULLET_SPEED, RocketBullet, SpringBullet, ShortSpringBullet, FollowingBullet
-from Items import Upgrade, Life, Bomb, Point, STD_ITEM_SIZE
-from Misc import Explosion
 
-ENEMY_STD_SCALE     = Base.WIDTH / 12
+from include import Base
+from include.Bullets import Bullet, BULLET_WIDTH, BULLET_SPEED, RocketBullet, SpringBullet, ShortSpringBullet, FollowingBullet
+from include.Items import Upgrade, Life, Bomb, Point, STD_ITEM_SIZE
+from include.Misc import Explosion
+
+ENEMY_STD_SCALE = Base.WIDTH / 12
 
 class Enemy(pygame.sprite.Sprite):
     def __init__(self, pos, scale, bullet_group, image, vel = [0, 0], kind = 0):
@@ -1443,7 +1444,7 @@ class ScrewCrystal(Enemy):
                 crystal.rect.centery += 2
         else:
             self.rect.centerx += self.v_vel
-	    for crystal in self.crystals:
+            for crystal in self.crystals:
                 crystal.rect.centerx += self.v_vel
             if self.rect.centerx > Base.WIDTH:
                 self.v_vel *= -1
@@ -1588,8 +1589,8 @@ class ScrewMinorCrystal(Enemy):
         bullet_vel.append(vel_y * speed)
         self.bullet_group.add(SpringBullet(pos, BULLET_WIDTH, bullet_vel, self.game_state))
     def kill(self, opt = None):
-	if opt != -1:
-	    Enemy.kill(self)
+        if opt != -1:
+            Enemy.kill(self)
 
 class TimedRocket(Enemy):
     def __init__(self, pos, scale, bullet_group, vel, kind, time):

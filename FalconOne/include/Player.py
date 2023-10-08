@@ -1,7 +1,8 @@
+from include import Base
+from include.Bullets import PlayerBullet, SpringBullet, BULLET_WIDTH
+
 import pygame
-from Bullets import PlayerBullet, SpringBullet, BULLET_WIDTH
 import math
-import Base
 
 PLAYER_BULLET_SPEED = 12
 

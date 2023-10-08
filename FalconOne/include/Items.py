@@ -1,5 +1,5 @@
 import pygame
-import Base
+from include import Base
 
 STD_ITEM_SIZE = 20
 

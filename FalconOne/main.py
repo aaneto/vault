@@ -1,7 +1,4 @@
-#!/usr/bin/python
-
-import sys, pygame, os
-from random import randrange
+import sys, pygame
 from include.Items import *
 from include.Player import *
 from include.Enemies import *

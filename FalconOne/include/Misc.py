@@ -1,5 +1,5 @@
 import pygame
-import Base
+from include import Base
 
 class Misc(pygame.sprite.Sprite):
     def __init__(self):
